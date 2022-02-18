@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/websitelive/static/css/main.940144bb.css",
+    "main.js": "/websitelive/static/js/main.9ad3b302.js",
+    "static/media/bc.jpg": "/websitelive/static/media/bc.09a699d872c9b4f37fbe.jpg",
+    "static/media/inspiration-intro.png": "/websitelive/static/media/inspiration-intro.67561e3b5c98417cb418.png",
+    "static/media/11.png": "/websitelive/static/media/11.a56f49154a8c73e71e66.png",
+    "static/media/wdes.jpg": "/websitelive/static/media/wdes.9c4e2022c08f9de3dd07.jpg",
+    "static/media/s.jpg": "/websitelive/static/media/s.7c2bd631ed5f42cd95f5.jpg",
+    "static/media/wd.jpg": "/websitelive/static/media/wd.33f5176eca8d6a4d961c.jpg",
+    "static/media/ad.jpg": "/websitelive/static/media/ad.8dae4af9c7b1a93177b5.jpg",
+    "static/media/gd.png": "/websitelive/static/media/gd.2b72451f2d531e08a712.png",
+    "static/media/sd.jpg": "/websitelive/static/media/sd.e2a63e821e84e8b2952f.jpg",
+    "index.html": "/websitelive/index.html",
+    "main.940144bb.css.map": "/websitelive/static/css/main.940144bb.css.map",
+    "main.9ad3b302.js.map": "/websitelive/static/js/main.9ad3b302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.940144bb.css",
+    "static/js/main.9ad3b302.js"
+  ]
+}
